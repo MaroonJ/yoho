@@ -28,10 +28,10 @@
 		</div>	
 			
 		<div class="home-banner">
-			<img src="../../../imges/011b38b2de8ff682ebd5ea2d019f4e20ee.jpg" alt="">
-			<img src="../../../imges/013ebbfdea210ea8cde67d32007f8a39f2.jpg" alt="">
-			<img src="../../../imges/015e57e3cc0de6512110cc4a5a2bd97e56.jpg" alt="">
-			<img src="../../../imges/01fe475dbb1f779f9f3e76eac86e938812.jpg" alt="">
+			<img src="./imges/011b38b2de8ff682ebd5ea2d019f4e20ee.jpg" alt="">
+			<img src="./imges/013ebbfdea210ea8cde67d32007f8a39f2.jpg" alt="">
+			<img src="./imges/015e57e3cc0de6512110cc4a5a2bd97e56.jpg" alt="">
+			<img src="./imges/01fe475dbb1f779f9f3e76eac86e938812.jpg" alt="">
 		</div>	
 			
 		<div class="home-header-foot">
@@ -45,7 +45,7 @@
 			
 		</ul>
 		<div class="cgj-div">
-			<img src="../../../imges/019af52e46fe602b54b3d395349984d252.jpg" alt="">
+			<img src="./imges/019af52e46fe602b54b3d395349984d252.jpg" alt="">
 		</div>
 	 <div class="home-banner-foot">
 	    <mt-swipe :auto="4000">
@@ -63,23 +63,23 @@
 			<img :src="v.img" alt="">
 		</li>
 		<li class="more">
-			<img src="../../../imges/0173088d664d59084d9dd61fa2d8b78908.png" alt="">
+			<img src="./imges/0173088d664d59084d9dd61fa2d8b78908.png" alt="">
 		</li>
 	</ul>
 	
 	<div class="cgj-div">
-		<img src="../../../imges/01dbf0c6445f14fb9990d84ef371501e9e.jpg" alt="">
+		<img src="./imges/01dbf0c6445f14fb9990d84ef371501e9e.jpg" alt="">
 	</div>
 	<div class="banner-list">
-		<img src="../../../imges/0167230098d1cc72ea4c282e7f6e08fce3.jpg" alt="">
+		<img src="./imges/0167230098d1cc72ea4c282e7f6e08fce3.jpg" alt="">
 	</div>
 	<div class="home-header-foot">
 		<h2>人气推荐</h2>
-		<a href="#"><img src="../../../imges/等等等.png" alt="" style="width: 32px; height: 51.75px;"></a>
+		<a href="#"><img src="./imges/等等等.png" alt="" style="width: 32px; height: 51.75px;"></a>
 	</div>
 	<div class="banner-list">
 		<a href="#">
-			<img src="../../../imges/01fb8c7d110e2fb499dbd5303f018010b3.jpg" alt="">
+			<img src="./imges/01fb8c7d110e2fb499dbd5303f018010b3.jpg" alt="">
 		</a>
 	</div>
 	
@@ -100,7 +100,7 @@
 	</ul>
 	</div>
 	<div class="cgj-div">
-		<img src="../../../imges/011b38b2de8ff682ebd5ea2d019f4e20ee.jpg" alt="">
+		<img src="./imges/011b38b2de8ff682ebd5ea2d019f4e20ee.jpg" alt="">
 	</div>
 	
 	<div class="maybe-like">
@@ -154,7 +154,7 @@
 			 <span class="sep-line">|</span>
 			 <a href="">注册</a>
 			 <span class="back-to-top">回到顶部
-			 <i class="iconicon"><img src="../../../imges/上箭头.png" alt=""></i>
+			 <i class="iconicon"><img src="./imges/上箭头.png" alt=""></i>
 			 </span>
 		 </p>
 		 <div class="address">
@@ -253,7 +253,7 @@
 		display: inline-block;
 		height: 0.775rem;
 		width: 0.775rem;
-		background: url(../../../imges/up-icon.dd4b29b7e6.png) no-repeat;
+		background: url(./imges/up-icon.dd4b29b7e6.png) no-repeat;
 		background-size: 100% 100%;
 	}
 	.title{
@@ -426,7 +426,7 @@
 	.home-wrapper{
 		padding: 15px 0 2px;
 		height: 67.47px;
-		background-image: url(../../../imges/012861c7ab0b730fe5825bab664bd374b7.jpg);
+		background-image: url(./imges/012861c7ab0b730fe5825bab664bd374b7.jpg);
 	}
 	.mint-swipe{
 		width: 100%;
@@ -448,7 +448,7 @@
 		display: block;
 		width: 25.88px;
 		height: 58.22px;
-		background-image: url(../../../imges/meun.png);
+		background-image: url(./imges/meun.png);
 		background-size: 30px;
 		background-repeat: no-repeat;
 	}
@@ -460,7 +460,7 @@
 		width: 134.55px;
 		height: 56.27px;
 		display: block;
-		background-image: url(../../../imges/yohologo02.4b84a9fb7d.png);
+		background-image: url(./imges/yohologo02.4b84a9fb7d.png);
 	}
 	.search{
 		top: 0;
@@ -468,7 +468,7 @@
 		right: 0;
 		width: 58.22px;
 		height: 58px;
-		background-image: url(../../../imges/search.png);
+		background-image: url(./imges/search.png);
 		background-size:26px;
 		background-repeat: no-repeat;
 		background-position: center;
